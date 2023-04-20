@@ -1,0 +1,45 @@
+/* Fonts */
+.product-content h2 {
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 500;
+    color: hsl(228, 12%, 48%);
+}
+
+.product-content h1 {
+    font-family: Fraunces, serif;
+    font-size: 32px;
+}
+
+p {
+    font-family: Montserrat;
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+}
+
+p.new-price {
+    font-family: Fraunces, serif;
+    font-size: 32px;
+    color: hsl(158, 36%, 37%);
+}
+
+p.original-price {
+    text-decoration: line-through;
+}
+
+/* body {
+    background-color: hsl(30, 38%, 92%);
+    display: grid;
+    place-items: center;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    display: grid;
+}
+
+
+button {
+    background-color: 	hsl(151, 29%, 19%);
+    color: white;
+} */
