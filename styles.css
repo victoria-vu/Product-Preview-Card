@@ -72,7 +72,7 @@ img {
 }
 
 p.description {
-    padding-right: 40px; 
+    padding-right: 35px; 
     padding-bottom: 30px;
     font-size: 16px;
     line-height: 25px;
@@ -111,6 +111,10 @@ p.description {
     font-size: 14px;
     font-family: var(--ff-main);
     color: var(--clr-neutral-wht);
+}
+
+.cart-btn img {
+    padding-right: 10px;
 }
 
 .cart-btn:hover {
